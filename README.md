@@ -33,5 +33,5 @@ func getPath(path string) []string {
  
 #### Set a variavel path_default := "./teste"
 ```
-go lang main.go 
+go run main.go 
 ```
